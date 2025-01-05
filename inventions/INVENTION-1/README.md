@@ -5,8 +5,8 @@ It turns stuff. It can rotate it. It can lift it. It can place it down. The scre
 <img height="300px" src="10037.jpg"/>
 <img height="300px" src="10038.jpg"/>
 
-|       Field | Value                            |
-|------------:|----------------------------------|
-|   **Title** | Move and Place                   |
-|     **Key** | INVENTION-1                      |
-| **Created** | Created July 27, 2019 at 9:36 AM |
+|       Field | Value             |
+|------------:|-------------------|
+|   **Title** | Move and Place    |
+|     **Key** | INVENTION-1       |
+| **Created** | 27/Jul/19 9:36 AM |
